@@ -1,5 +1,9 @@
 # CacheInf: Collaborative Edge-Cloud Cache System for Efficient Robotic Visual Model Inference
 
+## TODO
+1. code upload and teaser images by 11/24
+2. Full reproduction by 11/30
+
 This is the repository for the reproduction of results in paper 841 submitted to Eurosys 2025 with title, CacheInf: Collaborative Edge-Cloud Cache System for Efficient Robotic Visual Model Inference.
 
 ## Installation
